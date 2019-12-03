@@ -1,0 +1,108 @@
+{
+    "nome_completo":"Telma Cristina Gabriel",
+    "o_que_eu_quero":"Mudar minha trajetória profissional e atuar como desenvolvedora Front-end.",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/telma-gabriel-97253ab4",
+    "link_github":"https://github.com/Telcrika",
+    "email": "telcrika31@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Sou entusiasta da tecnologia, me interesso por linguagens de programação e infraestrutura. Possuo ótimo relacionamento interpessoal, sou criativa, proativa, amo pessoas e culturas, tenho excelente humor mesmo quando durmo pouco, reajo positivamente diante adversidades e lido muito bem com pressões.",
+        "Iniciei minha carreira profissional aos 14 anos como berçarista, fui promovida a auxiliar de sala devido a minha facilidade em explicar e interagir com as crianças, após 6 anos nesta função, passei a ocupar a posição de operadora na empresa Brasileira de Correios e Telégrafos. Minha primeira graduação foi em Negócios da moda onde tive oportunidade de desenvolver todo meu potencial criativo. Alguns anos depois, me graduei em Análise e desenvolvimento de Sistemas, onde fui premiada como uma das melhores alunas na matéria de UML, estagiei como suporte técnico em uma maternidade na qual aprendi a montar computadores e fazer manutenção de rede. Atualmente sou  aluna no bootcamp da Reprograma e graduanda do curso de Redes de Computadores.",
+        "Sou mãe do Vitor com quem divido minhas alegrias e conquistas e tenho como hobbie reuniões em família e amigos, conteúdo audiovisual, passeios, meetups, gastronomia, bike, yoga e tudo o que promova a saúde e bem estar pessoal."
+        
+    ],
+
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Agente de Correios ",
+            "empresa":"Empresa Brasileira de Correios e Telégrafos",
+            "periodo":"Dez/2001 até o momento",
+            "atividades_desenvolvidas": "Execução das etapas do processo de tratamento e encaminhamento (preparação, triagem, conferência, unitização, recepção, despachos e outros) de objetos postais,demais produtos e serviços da empresa. Pesquisa, rastreamento, acompanhamento de números e resultados e logística. Atendimento ao cliente interno e externo.",
+            "link":"http://www.correios.com.br/"
+        },
+        {
+            "cargo_funcao": "Estagiária em informática",
+            "empresa":"Hospital e Maternidade Vila Nova Cachoeirinha",
+            "periodo":"(ago/2014 - dez/2015) 1 ano e meio",
+            "atividades_desenvolvidas":"Suporte técnico aos usuários; Manutenção de equipamentos e rede; Instalação de aplicativos e programas, elaboração e emissão de relatórios; Pesquisa e alimentação de dados no sistema.",
+            "link": null
+        }
+        
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Desenvolvimento Front-end",
+            "instituicao":"{reprograma}",
+            "periodo":"Ago/2019 a Dez/2019 - 704horas",
+            "resumo_conhecimentos_aprendidos": "UX,lógica de programação,HTML,CSS,Javascript,Bootstrap,SAAS,Scrumm,JQuery,Ajax,React,Acessibilidade"
+        },
+        {
+            "curso": "Redes de Computadores",
+            "instituicao":"Fatec Osasco",
+            "periodo":"Ago/2017 - cursando",
+            "resumo_conhecimentos_aprendidos":["Linux,Shell,Java,Cabeamento estruturado,Python,Desenvolvimento Web,Sistemas Operacionais,Administração de", "rede"]
+            
+        },
+        {
+            "curso": "Análise e Desenvolvimento de Sistemas",
+            "instituicao":"Faculdade Flamingo",
+            "periodo":"Ago/2013 - Dez/2015",
+            "resumo_conhecimentos_aprendidos":["Gestão de Projetos, Governança de Tecnologia da Informação, Qualidade de Software, Segurança da informação,",   "Banco de dados, Engenharia de Software"]
+        }
+],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Ruby para iniciantes",
+            "instituicao":"Le Wagon",
+            "resumo_conhecimentos_interesses": "Introdução aos conceitos da linguagem"
+        },
+        {
+            "interesse_evento_curso": "Python e Django",
+            "instituicao":"Afropython",
+            "resumo_conhecimentos_interesses": "Oficina para iniciantes"
+        },
+        {
+            "interesse_evento_curso": "Oficina de Computação Desplugada - Voluntária",
+            "instituicao":"Fatech Girls",
+            "resumo_conhecimentos_interesses": "Oficina para meninas da Etec conhecerem o universo tecnológico"
+        },
+        {
+            "interesse_evento_curso": "Fuxicathona",
+            "instituicao":"MariaLab",
+            "resumo_conhecimentos_interesses": "Oficina para disseminação e participação coletiva do conceito de rede comunitária, software livre e empoderamento feminino"
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":9},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 9},
+        {"habilidade_ferramenta":"SASS", "pontuacao": 6},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 8}, 
+        {"habilidade_ferramenta":"NODE", "pontuacao": 1}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 9},
+        {"habilidade_ferramenta":"REACT", "pontuacao": 8},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 9},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 9},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 6},
+        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 6},
+        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 9},
+        {"habilidade_ferramenta":"PHP", "pontuacao": 0},
+        {"habilidade_ferramenta":"MySQL", "pontuacao": 8},
+        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 8},
+        {"habilidade_ferramenta":"FTP", "pontuacao": 8},
+        {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8},
+        {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 0},
+        {"habilidade_ferramenta":"ILUSTRATOR", "pontuacao": 0},
+        {"habilidade_ferramenta":"INDESIGN", "pontuacao": 0},
+        {"habilidade_ferramenta":"JAVA", "pontuacao": 5},
+        {"habilidade_ferramenta":"PYTHON", "pontuacao": 5},
+        {"habilidade_ferramenta":"LINUX", "pontuacao": 5},
+        {"habilidade_ferramenta":"SHELL", "pontuacao": 5}
+    ]
+}
